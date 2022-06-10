@@ -1,4 +1,4 @@
-header {
+.header {
     background-color: #222;
     height: 36px;
     padding: 8px 32px 8px 16px;
@@ -6,7 +6,7 @@ header {
 
 .siteLogo {
     background-color: #ff7f7f;
-    height: 35px;
+    height: 32px;
     animation: rotate 8s linear infinite;
 }
 @keyframes rotate {
